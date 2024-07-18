@@ -1,8 +1,8 @@
 PIN CONFIGURATION:
 
 DH22:
-+ > 3V |
-- >  G |
++ve > 3V |
+-ve >  G |
 OUT > D3
 
 OLED:
